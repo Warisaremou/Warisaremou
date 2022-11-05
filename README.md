@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Warisaremou
-- 👀 I’m interested in web development and web design
+- 👀 I’m interested in Front-End development and web design
 - 🌱 I’m currently learning web development and web design
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
