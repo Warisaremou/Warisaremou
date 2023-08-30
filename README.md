@@ -59,10 +59,10 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
  
 </p>
-/*
+/**
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
     <img align="center" src="https://github.com/Warisaremou/Warisaremou/blob/main/separator.gif" >
 </p>
-*/
+**/
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warisaremou&theme=dark&show_icons=true&locale=en&layout=compact" alt="warisaremou" /></p>
