@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Frontend+developer;Web+designer;Game+Lover">
 </p>
 
-- 🌱 I’m currently learning **reactjs, tailwindcss, firebase, strapi**
+- 🌱 I’m currently learning **reactjs, tailwindcss, react-native, Nestjs**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
