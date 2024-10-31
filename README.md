@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native and Nestjs<br>💬 Ask me about Reactjs, Nextjs & Nodejs<br>⚡ Fun fact: Game lover and I like drawing<br>📫 How to reach me warisakinocho3@gmail.com
+👯 I’m looking to collaborate on innovative projects<br>💬 Ask me about Reactjs, Nextjs & Nodejs<br>⚡ Fun fact: Game lover and I like drawing<br>📫 How to reach me warisakinocho3@gmail.com
 
 
 ## 🌐 Socials:
