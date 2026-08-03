@@ -1,6 +1,6 @@
 ## Hi, I'm Waris Akinocho 👋
 
-Software Developer with a background in Frontend & UI/UX, currently completing a Software Engineering apprenticeship at **Bpifrance**. I am shifting my focus toward `Backend Architecture`, `Object-Oriented Design` and `System Design`, aiming to turn abstract requirements into clean code while balancing real-world technical trade-offs.
+Software Developer with a background in Frontend & UI/UX, currently completing a Fullstack Developer apprenticeship at **Bpifrance**. I am shifting my focus toward `Backend Architecture`, `Object-Oriented Design` and `System Design`, aiming to turn abstract requirements into clean code while balancing real-world technical trade-offs.
 
 <div align="center">
 
